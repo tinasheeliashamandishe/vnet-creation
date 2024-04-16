@@ -18,7 +18,7 @@ Ctreate a Vnet Resource<br/>
 Specify your Vnet address space and subnets<br/>
 <img src="https://i.imgur.com/vAdWCpM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-<h5>After this your VM should now be in place</h5> 
+<h5>After this your Vnet should now be in place</h5> 
 
 <h4>Step 2</h4> 
 Create a Virtual Machine Resource and Place it in the Vnet you created<br/>
