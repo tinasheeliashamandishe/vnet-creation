@@ -12,7 +12,7 @@ This lab will Create an Azure Virtual Network and deploy a resource to that Vnet
 
 <p align="center">
 <h4>Step 1</h4>
-Ctreate a Vnet Resource<br/>
+Create a Vnet Resource<br/>
 <img src="https://i.imgur.com/CZyizSm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 Specify your Vnet address space and subnets<br/>
